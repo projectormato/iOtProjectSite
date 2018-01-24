@@ -1,0 +1,43 @@
+---
+layout: post
+title: GoPiGo3を動かしました。
+tags: [Test, ROS]
+---
+# GoPiGo3を動かしました。
+
+## 本文
+
+テストも兼ねて投稿。
+
+コード
+{% highlight python %}
+
+import time
+import easygopigo3 as easy
+
+{% endhighlight %}
+
+して、むにむにするみたいでした。
+
+ちなみにGoだと、
+{% highlight go %}
+
+import (
+	"fmt"
+	"time"
+
+	"gobot.io/x/gobot"
+	"gobot.io/x/gobot/platforms/dexter/gopigo3"
+	"gobot.io/x/gobot/platforms/raspi"
+)
+{% endhighlight %}
+
+みたいな感じでむにむにするみたいです。
+
+GoPiGo3を色々動かしてみたい人は、[こちら](https://github.com/DexterInd/GoPiGo3/)から！
+
+## P.S.
+
+* 箇条書き
+* したかっただけ
+
