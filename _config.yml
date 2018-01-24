@@ -5,16 +5,17 @@ url: "https://projectormato.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type on Strap
-  avatar: assets/img/triangle.svg
+  title: iOtプロジェクトサイト
+  avatar: assets/img/icon.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "iOtプロジェクトの紹介ページ。活動記録や成果物など" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Change header text in <code>_config.yml</code> to disable this feature.</p>
-  header_text_feature_image: assets/img/pexels/triangular.jpeg
+     <p>iOtプロジェクトの紹介ページです。</p>
+     <p>私たちのシステムであなたのロボットに息を吹きかけませんか？</p>
+  header_text_feature_image: assets/img/pexels/wall_e.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 
@@ -27,7 +28,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "projectormato"
   google_plus:
   instagram:
   keybase:
