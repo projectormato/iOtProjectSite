@@ -329,5 +329,3 @@ Now you can use any theme gem with github pages : [29/11/2017 Github Pages Broad
 ## License
 
 [The MIT License (MIT)](https://raw.githubusercontent.com/Sylhare/Type-on-Strap/master/LICENSE)
-
-yeah
