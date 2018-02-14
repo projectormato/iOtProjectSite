@@ -7,6 +7,7 @@ WORKDIR /jekyll
 
 ADD ./Gemfile .
 ADD ./Gemfile.lock .
+ADD ./*.gemspec .
 
 RUN bundle install --path vendor/bundle
 
